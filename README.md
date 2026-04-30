@@ -1,22 +1,21 @@
 # Mprah-Boamey
 
-Stuff I’m fiddling with: how optical-metaphor stories (wave interference, stacked holographic multiplexing ideas) collide with mundane software questions like tiling weights on disk, mmap, and squeezing RAM without waving hands at physics.
+Stuff I fiddle with: optical metaphors (interference doodles, stacked multiplexing fantasies) smacking into mundane software chores like tiling weights, mmap quirks, begging RAM to cooperate without lying about physics.
 
-Everything here is exploratory. Mostly documentation, benchmarks as thought experiments, and small scripts that chase “what happens if…” questions.
+All of this is exploratory. Plenty of scribbles masquerading as documentation, benchmarks that behave like campfire math, bite-sized scripts that answer “okay but what happens if…”
 
-Personal links:
+Links if you actually need them:
 
 https://www.linkedin.com/in/mprahboamey  
-https://x.com/mprah_boamey
 
-Main repos linked below.
+https://x.com/mprah_boamey  
 
-## Threads I keep coming back to
+## Threads that loop in my brain
 
-Optical metaphors vs real silicon, holographic multiplexing borrowed as mental picture, volumetric layout of parameters, tiling bytes into slabs, perplexity quirks when quantization gets mean.
+Fantasy optics versus honest silicon tension, multiplexing bedtime stories repurposed onto tensors, volumetric fantasies around parameters, byte slabs chunked into slabs, quantization gremlins munching perplexity.
 
-## Stuff on this GitHub account
+## Projects parked here
 
-[PHOTEX-clean](https://github.com/mprahboamey/PHOTEX-clean): Optics-heavy thought notes and benchmark-style tables tied to volumetric holography-ish inference stories.
+[PHOTEX-clean](https://github.com/mprahboamey/PHOTEX-clean) carries loud optics-heavy notes plus benchmark spreadsheets tied to holography-ish inference thought experiments.
 
-[HoloWeights](https://github.com/mprahboamey/holoweights): Narrower sandbox for packing weights into mmap-friendly tiles and poking sparse reads.
+[HoloWeights](https://github.com/mprahboamey/holoweights) tackles the nerdier mmap tile sandbox beside that noise.
