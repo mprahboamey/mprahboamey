@@ -2,6 +2,9 @@
 
 Building AI systems at the intersection of optical computing, optical neural networks, volumetric inference, and virtual holographic inference.
 
+LinkedIn: https://www.linkedin.com/in/mprahboamey  
+X: https://x.com/mprah_boamey
+
 ## Focus Areas
 
 - AI inference systems
