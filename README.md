@@ -2,7 +2,7 @@
 
 Stuff I fiddle with: optical metaphors (interference doodles, stacked multiplexing fantasies) smacking into mundane software chores like tiling weights, mmap quirks, begging RAM to cooperate without lying about physics.
 
-All of this is exploratory. Plenty of scribbles masquerading as documentation, benchmarks that behave like campfire math, bite-sized scripts that answer “okay but what happens if…”
+All of this is exploratory. Plenty of scribbles masquerading as documentation, benchmarks that need independent replication before citing, bite-sized scripts that answer “okay but what happens if…”
 
 Links if you actually need them:
 
