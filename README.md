@@ -1,21 +1,12 @@
 # Mprah-Boamey
 
-Stuff I fiddle with: optical metaphors (interference doodles, stacked multiplexing fantasies) smacking into mundane software chores like tiling weights, mmap quirks, begging RAM to cooperate without lying about physics.
+I work at the intersection of optical computing and practical software — exploring how holographic storage geometry, wave interference, and volumetric multiplexing translate into real simulation frameworks and weight representation experiments.
 
-All of this is exploratory. Plenty of scribbles masquerading as documentation, benchmarks that need independent replication before citing, bite-sized scripts that answer “okay but what happens if…”
+https://www.linkedin.com/in/mprahboamey
+https://x.com/mprah_boamey
 
-Links if you actually need them:
+## Projects
 
-https://www.linkedin.com/in/mprahboamey  
+**[PHOTEX-clean](https://github.com/mprahboamey/PHOTEX-clean)** — PyTorch-based simulator for optical and photonic neural networks. Models diffractive layers, wave propagation via the Angular Spectrum Method, and optical self-attention. Benchmarks compare projected optical performance against NVIDIA H100 baselines.
 
-https://x.com/mprah_boamey  
-
-## Threads that loop in my brain
-
-Fantasy optics versus honest silicon tension, multiplexing bedtime stories repurposed onto tensors, volumetric fantasies around parameters, byte slabs chunked into slabs, quantization gremlins munching perplexity.
-
-## Projects parked here
-
-[PHOTEX-clean](https://github.com/mprahboamey/PHOTEX-clean) carries loud optics-heavy notes plus benchmark spreadsheets tied to holography-ish inference thought experiments.
-
-[HoloWeights](https://github.com/mprahboamey/holoweights) tackles the nerdier mmap tile sandbox beside that noise.
+**[HoloWeights](https://github.com/mprahboamey/holoweights)** — Software experiments in tiled weight representation and memory-mapped access patterns, using volumetric addressing as an organizational model.
