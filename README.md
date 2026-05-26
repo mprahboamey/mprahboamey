@@ -9,6 +9,16 @@
 
 </div>
 
+<!-- Pin-style repo cards (shows on profile even before GitHub pins are set) -->
+<p align="center">
+  <a href="https://github.com/mprahboamey/PHOTEX-clean">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mprahboamey&repo=PHOTEX-clean&theme=default" alt="PHOTEX-clean" />
+  </a>
+  <a href="https://github.com/mprahboamey/holoweights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mprahboamey&repo=holoweights&theme=default" alt="holoweights" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
