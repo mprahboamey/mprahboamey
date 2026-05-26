@@ -5,7 +5,6 @@
 **Independent builder · optical computing · physics simulation · systems past the limit**
 
 [![Profile views](https://komarev.com/ghpvc/?username=mprahboamey&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mprahboamey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mprah--boamey.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mprah-boamey.vercel.app/)
 
 </div>
 
@@ -13,12 +12,12 @@
 
 ## 💫 About Me
 
-- 🔭 **Now:** [PHOTEX-clean](https://github.com/mprahboamey/PHOTEX-clean) — optical neural network simulator (light + wave interference for AI inference)
-- 🧠 **Also:** [HoloWeights](https://github.com/mprahboamey/holoweights) — memory-mapped tiled weights inspired by holographic geometry
+- 🔭 **Now:** Crossing from simulation into hardware — pinned repos above are the main work
 - 👯 **Open to:** Photonic computing, wild simulation ideas, Python/ML experiments, physics engines, MVP products
 - 🌱 **Learning:** Advanced optics simulation, materials search, constructor-theory agents, hypergraph physics
 - 💬 **Ask me about:** PyTorch wave optics, pushing systems past their design limit, shipping MVPs without permission
 - ⚡ **Fun fact:** I often start building before I know the problem is "supposed" to be hard
+- 🌐 **Portfolio:** [mprah-boamey.vercel.app](https://mprah-boamey.vercel.app)
 
 ---
 
@@ -27,17 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mprahboamey/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mprah_boamey)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mprahboamey)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mprah-boamey.vercel.app/)
-
----
-
-## 🚀 Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**PHOTEX-clean**](https://github.com/mprahboamey/PHOTEX-clean) | PyTorch optical NN simulator — ASM propagation, diffractive layers, optical attention, H100 benchmarks |
-| [**HoloWeights**](https://github.com/mprahboamey/holoweights) | Tiled / mmap weight access patterns using holographic addressing geometry |
-| [**Portfolio**](https://mprah-boamey.vercel.app/) | Builder portfolio — PHOTEX, physics engines, campus MVP, materials search |
 
 ---
 
@@ -110,6 +98,6 @@
 
 <div align="center">
 
-*Self-taught · inventor track · [PHOTEX](https://github.com/mprahboamey/PHOTEX-clean) provisional patent drafted*
+*Self-taught · Ghana · provisional patent drafted (optical computing)*
 
 </div>
