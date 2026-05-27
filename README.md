@@ -98,6 +98,6 @@
 
 <div align="center">
 
-*Self-taught · Ghana · provisional patent drafted (optical computing)*
+*Self-taught · Ghana · optical computing simulation*
 
 </div>
