@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Mprah-Boamey
 
-**Independent builder · optical computing · physics simulation · systems past the limit**
+**Independent builder · optical neural network simulation · memory-mapped weight runtimes · Ghana**
 
 [![Profile views](https://komarev.com/ghpvc/?username=mprahboamey&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mprahboamey)
 
@@ -12,11 +12,11 @@
 
 ## 💫 About Me
 
-- 🔭 **Now:** Crossing from simulation into hardware — pinned repos above are the main work
-- 👯 **Open to:** Photonic computing, wild simulation ideas, Python/ML experiments, physics engines, MVP products
-- 🌱 **Learning:** Advanced optics simulation, materials search, constructor-theory agents, hypergraph physics
-- 💬 **Ask me about:** PyTorch wave optics, pushing systems past their design limit, shipping MVPs without permission
-- ⚡ **Fun fact:** I often start building before I know the problem is "supposed" to be hard
+- 🔭 **Now:** Optical neural network simulation in PyTorch; crossing from simulator into hardware. Pinned repos are the main work.
+- 👯 **Open to:** Optical computing research, inference-efficiency collaborations, photonics or unconventional-hardware groups
+- 🌱 **Learning:** Holographic storage materials, photonic device physics, hypergraph models of discrete physics
+- 💬 **Ask me about:** PyTorch wave optics, the Angular Spectrum Method, memory-mapped tile runtimes, GGUF internals
+- ⚡ **Fun fact:** Learned linear algebra by trying to implement self-attention as wave interference
 - 🌐 **Portfolio:** [mprah-boamey.vercel.app](https://mprah-boamey.vercel.app)
 
 ---
@@ -98,6 +98,6 @@
 
 <div align="center">
 
-*Self-taught · Ghana · optical computing simulation*
+*Self-taught · 19 · Ghana*
 
 </div>
