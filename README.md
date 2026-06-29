@@ -60,6 +60,6 @@
 
 <div align="center">
 
-*Self-taught · 19 · Ghana*
+
 
 </div>
