@@ -2,11 +2,10 @@
 
 # mprah-boamey (Claude)
 
-i love computers and ai. 
+I love computers and AI/ ML.  
+Building things that accelerate compute and intelligence using 
 
-building things that accelerate compute and intelligence 
-
-the pinned repos are the work. clone and star something.
+Pinned repos are the work. Clone and star something.
 
 [![Profile views](https://komarev.com/ghpvc/?username=mprahboamey&label=views&color=0e75b6&style=flat)](https://github.com/mprahboamey)
 
