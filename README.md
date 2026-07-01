@@ -3,7 +3,8 @@
 # mprah-boamey (Claude)
 
 I love computers and AI/ ML.  
-Building things that accelerate compute and intelligence using 
+Building things that accelerate compute and intelligence
+Open to research, ML roles 
 
 Pinned repos are the work. Clone and star something.
 
