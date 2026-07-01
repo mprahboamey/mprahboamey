@@ -27,11 +27,3 @@ Pinned repos are the work. Clone and star something.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
-
-## github stats
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mprahboamey&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=mprahboamey&theme=github-dark&hide_border=true" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mprahboamey&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
